@@ -1,6 +1,8 @@
 /* Configuración para Diseñadores Gráficos */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Poppins', sans-serif;
     background-color: #f4f4f4; /* Un gris claro de fondo */
     color: #333; /* Texto gris oscuro para mejor lectura */
     line-height: 1.6;
@@ -13,6 +15,8 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
+    font-weight: 600;
+    letter-spacing: 1px; /* le da estilo más pro */
 }
 
 img {
