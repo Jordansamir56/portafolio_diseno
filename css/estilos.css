@@ -100,7 +100,7 @@
 }
 /* Menú Superior */
 .menu-superior {
-    background-color: ##ff0011; /* Azul - Así es visible */
+    background-color: #ff0011; /* Rojo - Así es visible */
     padding: 15px 0;
     position: sticky; 
     top: 0;
